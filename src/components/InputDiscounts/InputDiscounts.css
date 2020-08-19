@@ -1,0 +1,19 @@
+.discountsContainer {
+  width: 90%;
+}
+
+.discountsTitle {
+  margin-bottom: 0.5rem;
+}
+
+.inputDiscounts {
+  width: 100%;
+  height: 2.5rem;
+
+  outline: none;
+  border: none;
+  border-bottom: 1px solid;
+
+  color: #fff;
+  background-color: #000;
+}

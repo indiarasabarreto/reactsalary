@@ -1,0 +1,28 @@
+.containerNetSalary {
+  width: 90%;
+
+  display: flex;
+  flex-direction: column;
+  align-content: flex-start;
+}
+
+.netSalaryTitle {
+  color: #006400;
+  margin-bottom: 0.5rem;
+}
+
+.inputNetSalary {
+  width: 20%;
+  height: 2.5rem;
+
+  outline: none;
+  border: none;
+  border-bottom: 1px solid #006400;
+
+  color: #fff;
+  background-color: #000;
+}
+
+.inputNetSalary:focus {
+  outline: none;
+}

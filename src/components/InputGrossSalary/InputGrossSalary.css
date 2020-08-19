@@ -1,0 +1,22 @@
+.grossSalaryContainer {
+  width: 90%;
+
+  margin-right: 10px;
+}
+
+.containerTitle {
+  color: #006400;
+  margin-bottom: 0.5rem;
+}
+
+.inputGrossSalary {
+  height: 2.5rem;
+  width: 100%;
+
+  outline: none;
+  border: none;
+  border-bottom: 1px solid #006400;
+
+  color: #fff;
+  background-color: #000;
+}
